@@ -1,3 +1,3 @@
-array = ["25", "7", "1"]
-
-array.sort
+def sort_array_asc
+  array.sort  
+end  
